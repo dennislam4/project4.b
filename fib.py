@@ -21,8 +21,3 @@ def fib(num):
 
         return x
 
-
-
-term = fib(17)
-print(term)
-
