@@ -6,6 +6,7 @@
 # the Fibonacci sequence.
 
 def fib(num):
+    """Takes a number value and runs it through conditional statements that determines the number's poisition within a Fibonaci sequence"""
     p = 1
     q = 1
     if num == 1:
